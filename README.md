@@ -3,13 +3,13 @@ Practice HTML on a favorite Artist
 
  Step 1
  
-  -You must use semeantic elments to oragnize your HTML, No DIV tags. Use "section" tags if you need a filler.
+  <!-- -You must use semantic elements to organize your HTML, No DIV tags. Use "section" tags if you need a filler. -->
   
-  -Your page must have navigation links to your artists web page.
+  <!-- -Your page must have navigation links to your artists web page. -->
   
-  -It must have 2 different lists one ordered and one unordered
+  <!-- -It must have 2 different lists one ordered and one unordered -->
   
-  -It must contain at least 3 images that are relevant to your artist.
+  <!-- -It must contain at least 3 images that are relevant to your artist. -->
   
   -There needs to be either a video embedded or a link created to a video.
   
@@ -39,3 +39,7 @@ Practice HTML on a favorite Artist
   -You must use a 'select' list and a 'datalist'.
 
   -Make sure that your form has a button to submit the users responses.
+
+  BONUS
+
+  -Redirect the user to a separate html page that you have created confirming their submission. You can add more content here if you would like as well.
