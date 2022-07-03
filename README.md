@@ -22,11 +22,11 @@ Practice HTML on a favorite Artist
   
  Step 2 (Build a table)
  
-  -Build a table to show upcoming concerts (if there are none, then make up some dates and locations).
+  <!-- -Build a table to show upcoming concerts (if there are none, then make up some dates and locations). -->
   
-  -Each concert should have the following information: Date, Time, Location, Link to buy tickets. (4 columns).
+  <!-- -Each concert should have the following information: Date, Time, Location, Link to buy tickets. (4 columns). -->
   
-  -The table should have a header and a body (you can create an optional footer if you would like)
+  <!-- -The table should have a header and a body (you can create an optional footer if you would like) -->
   
   -Display at least 3 concerts.
   
