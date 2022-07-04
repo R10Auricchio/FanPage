@@ -105,28 +105,32 @@
             <section id="form">
                 <form action="" method="POST">
                     <br>
-                    <label>Do You like Harry Styles?</label>
+                    <p>Do You like Harry Styles?</p>
+                    <input id='yes' type="radio" name="answer" value="yes">
+                    <label for="yes">Yes</label>
+                    <input id='no' type="radio" name="answer" value="no">
+                    <label for="no">No</label>
                     <br>
-                    <label>Yes</label>
-                    <input type="radio" name="Yes">
-                    <label>No</label>
-                    <input type="radio" name="No">
-                    <br>
-                    <label for="fHSong">What is your favorite Harry Styles song?</label>
+                    <label for="fHSong">Do you have a favorite Harry Styles song? If so what is it?</label>
                     <br>
                     <input type="text" name="fHSong" id="fHSong">
                     <br>
+                    <label list="num">How many songs do you know from Harry Styles?</label>
+                    <br>
+                    <select id="num" name="numSongs" list='num'>
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="lots">lots</option>
+                    </select>
+                    <br>
                     <label></label>
                     <br>
                     <input>
                     <br>
-                    <label>How many albums do you own from them?</label>
-                    <br>
-                    <input>
-                    <br>
                     <label></label>
                     <br>
-                    <input>
+                    <input type="submit">
                     <br>
                 </form>
             </section>
