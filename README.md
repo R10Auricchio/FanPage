@@ -34,7 +34,7 @@ Practice HTML on a favorite Artist
  
   <!-- -Your form should ask the user at least 4 different questions. For example: What is your favorite song? How many concerts have you been to? How many albums do you own from them? They can be whatever you would like. -->
   
-  -You need to use a different 'Type' of input for each question.
+  <!-- -You need to use a different 'Type' of input for each question. -->
   
   -You must use a 'select' list and a 'datalist'.
 
