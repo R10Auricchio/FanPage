@@ -28,11 +28,11 @@ Practice HTML on a favorite Artist
   
   <!-- -The table should have a header and a body (you can create an optional footer if you would like) -->
   
-  -Display at least 3 concerts.
+  <!-- -Display at least 3 concerts. -->
   
  Step 3 (Build a form)
  
-  -Your form should ask the user at least 4 different questions. For example: What is your favorite song? How many concerts have you been to? How many albums do you own from them? They can be whatever you would like.
+  <!-- -Your form should ask the user at least 4 different questions. For example: What is your favorite song? How many concerts have you been to? How many albums do you own from them? They can be whatever you would like. -->
   
   -You need to use a different 'Type' of input for each question.
   
