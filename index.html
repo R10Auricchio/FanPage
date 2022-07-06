@@ -103,33 +103,44 @@
                 </table> 
             </section>
             <section id="form">
-                <form action="" method="POST">
+                <form action="./index.html" method="POST">
+                    <h1>Harry Styles Questions</h1>
+                    <section id="question1">
+                        <span>Do You like Harry Styles?</span>
+                        <br>
+                        <input id='yes' type="radio" name="likeH" value="yes">
+                        <label for="yes">Yes</label>
+                        <input id='no' type="radio" name="likeH" value="no">
+                        <label for="no">No</label>
+                    </section>
                     <br>
-                    <span>Do You like Harry Styles?</span>
+                    <section id="question2">
+                        <label for="fHSong">Do you have a favorite Harry Styles song? If so what is it?</label>
+                        <br>
+                        <input type="text" name="fHSong" id="fHSong">
+                    </section>
                     <br>
-                    <input id='yes' type="radio" name="likeH" value="yes">
-                    <label for="yes">Yes</label>
-                    <input id='no' type="radio" name="likeH" value="no">
-                    <label for="no">No</label>
+                    <section id="'question3">
+                        <label list="num">How many songs do you know from Harry Styles?</label>
+                        <br>
+                        <select id="num" name="numSongs" list='num'>
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="Lots">lots</option>
+                        </select>
+                    </section>
                     <br>
-                    <label for="fHSong">Do you have a favorite Harry Styles song? If so what is it?</label>
-                    <br>
-                    <input type="text" name="fHSong" id="fHSong">
-                    <br>
-                    <label list="num">How many songs do you know from Harry Styles?</label>
-                    <br>
-                    <select id="num" name="numSongs" list='num'>
-                        <option value="0">0</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="lots">lots</option>
-                    </select>
-                    <br>
-                    <label></label>
-                    <br>
-                    <input>
-                    <br>
-                    <label></label>
+                    <section>
+                        <label for="fAlbum">What is your favorite Album?</label>
+                        <br>
+                        <input list="lAlbum" name="fAlbum" id="fAlbum">
+                        <datalist id="lAlbum">
+                            <option value="Harry's House"></option>
+                            <option value="Fine Line"></option>
+                            <option value="Harry Styles"></option>
+                        </datalist>
+                    </section>
                     <br>
                     <input type="submit">
                     <br>
