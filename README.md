@@ -17,7 +17,7 @@ Practice HTML on a favorite Artist
 
   <!-- -Include how you discovered them and why you like them. -->
   
-  <!-- -Your page should read like a story, a beginnig, middle and end. (header, main, footer) -->
+  <!-- -Your page should read like a story, a beginning, middle and end. (header, main, footer) -->
   
   
  Step 2 (Build a table)
